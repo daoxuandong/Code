@@ -1,3 +1,4 @@
+//Chấm điểm trắc nghiệm
 #include<bits/stdc++.h>
 using namespace std;
 string de1="ABBADCCABDCCABD";
