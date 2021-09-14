@@ -9,7 +9,7 @@ int check(int n){
 		n/=10;
 	}
 	if(a==b) return 1;
-	elsse return 0;
+	else return 0;
 }
 int main(){
     int n;
@@ -23,7 +23,7 @@ int main(){
     		dem++;
 		}
 		if(dem==10){
-			cout<<\n;
+			cout<<"\n";
 			dem=0;
 		}
 	}
